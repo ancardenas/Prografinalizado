@@ -1,0 +1,6 @@
+[core]
+	autocrlf = true
+	excludesfile = C:\\Users\\Juan-Jesus\\OneDrive\\Documentos\\gitignore_global.txt
+[user]
+	name = JuanJesusRR
+	email = juanjesusramirezr@gmail.com
