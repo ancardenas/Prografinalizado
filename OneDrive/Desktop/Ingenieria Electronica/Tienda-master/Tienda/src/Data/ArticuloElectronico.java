@@ -6,7 +6,8 @@ public class ArticuloElectronico {
    
     private String marca;
     private float precio;
-    private String color;//jun
+    private String color;
+    
     public ArticuloElectronico(String color,String marca,float precio){
     setPrecio(precio);
     setMarca(marca);
@@ -17,6 +18,7 @@ public class ArticuloElectronico {
     setMarca("artuculo sin asignacion");
     setColor("campo no agregado");
     }
+    
     
     
     public void setMarca(String marca){
